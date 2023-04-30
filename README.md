@@ -15,10 +15,14 @@ Installing
 To install the necessary packages, you can use pip:
 
 Run the code
+pip install CMake
+pip install dlib
 pip install opencv-python
 pip install numpy
 pip install face_recognition
 pip install pandas
+
+To run the above dependencies, execute this code in the terminals "pip3 install -r requirements.txt"
 Usage
 To use the system, follow these steps:
 
