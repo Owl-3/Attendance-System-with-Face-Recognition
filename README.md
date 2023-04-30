@@ -31,14 +31,17 @@ Python - The programming language used
 OpenCV - Computer vision library
 NumPy - Library for numerical computations
 face_recognition - Face recognition library
-Pandas - Data analysis library
+Pandas - Data analysis library </br></br>
 
-## When the webcam is active
+### When the webcam is active
+
 
 ![Active](https://user-images.githubusercontent.com/84917593/235348921-62e746db-5f42-40f7-9edf-de554fe33750.png)
 
-# the profile
+### The profile + marked attendance count
 ![Student attendance profile](https://user-images.githubusercontent.com/84917593/235348944-85a14b07-a68f-4822-83b0-936306ba7b9e.png)
+
+</br></br>
 
 
 
