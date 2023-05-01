@@ -47,7 +47,7 @@ Pandas - Data analysis library </br></br>
 
 </br></br>
 
-
+Link to the video recording: https://drive.google.com/drive/folders/1v4MqcY7Cj1BFckY9LC7_eQnORqC-Qtmg?usp=share_link
 
 Authors
 Odira Dancan -
