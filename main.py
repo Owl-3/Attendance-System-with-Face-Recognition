@@ -78,8 +78,8 @@ def main():
 
             imgBackground[162:162 + 480, 55:55 + 640] = img
             imgBackground[44:44 + 633, 808:808 + 414] = imgModeList[modeType]
-            if cv2.waitKey(1) == ord('q'):
-                break
+            # if cv2.waitKey(1) == ord('q'):
+            #     break
 
             if faceCurFrame:
                 for encodeFace, faceLoc in zip(encodeCurFrame, faceCurFrame):
